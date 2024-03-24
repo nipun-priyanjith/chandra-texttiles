@@ -68,4 +68,4 @@ To set up the project locally, follow these steps:
      ```
 
 
-<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/c.jpg">
+<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/c.png">
