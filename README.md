@@ -1,6 +1,6 @@
 # Chandra Texttiles Project
 
-
+<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/a.jpg">
 
 ## Objective
 
@@ -16,7 +16,7 @@ Harnessing Rapid Learning Skills to Excel in React, Redux, Tailwind CSS, and E-c
 - User Authentication and Authorization: Implemented robust authentication and authorization systems to ensure secure access to user accounts and sensitive data.
 - Order Processing and Fulfillment: Developed processes for handling orders, including order processing, tracking, and fulfillment, to ensure a smooth customer experience.
 
-
+<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/b.jpg">
 ### Tools Used
 
 
@@ -61,7 +61,11 @@ To set up the project locally, follow these steps:
   - Obtain your Razorpay API keys.
   - Update the Razorpay configuration object in src/components/cart/Cart.js with your API keys.
 
+
 7. Run
      ```bash
      npm run dev
      ```
+
+
+<img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/c.jpg">
