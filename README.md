@@ -69,3 +69,22 @@ To set up the project locally, follow these steps:
 <br><br>
 
 <img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/c.png">
+
+
+<br><br><div>
+<h3>Team</h3>
+<div style="width: 3px; height: 3px; border-radius: 100px; overflow: hidden; display: inline-block;">
+    <img src="https://avatars.githubusercontent.com/u/90551697?v=4" style="width: 3%; height: 3%; object-fit: cover;">
+    dumindu
+</div>
+
+<div style="width: 3px; height: 3px; border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://avatars.githubusercontent.com/u/153982024?v=4" style="width: 3%; height: 3%; object-fit: cover;">
+   madawa
+</div>
+
+<div style="width: 3px; height: 3px; border-radius: 50%; overflow: hidden; display: inline-block;">
+    <img src="https://avatars.githubusercontent.com/u/153920653?v=4" style="width: 3%; height: 3%; object-fit: cover;">
+   kanchana
+</div></div>
+
