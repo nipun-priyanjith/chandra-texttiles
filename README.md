@@ -1,4 +1,4 @@
-# Chandra Texttiles Project
+# Chandra Texttiles 
 
 <img src="https://github.com/nipun-priyanjith/chandra-texttiles/blob/main/src/assets/a.jpg">
 
@@ -40,7 +40,7 @@ To set up the project locally, follow these steps:
 2. Navigate to the project directory:
    
      ```bash
-     cd vite-project
+     cd chandra-texttiles
      ```
         
 3. Install dependencies:
